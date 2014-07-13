@@ -1,2 +1,0 @@
-ArabicTVChannels-Plex-Plugin
-============================
